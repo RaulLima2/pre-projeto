@@ -1,0 +1,66 @@
+%% abtex2-modelo-relatorio-tecnico.tex, v<VERSION> laurocesar
+%% Copyright 2012-2015 by abnTeX2 group at http://www.abntex.net.br/ 
+%%
+%% This work may be distributed and/or modified under the
+%% conditions of the LaTeX Project Public License, either version 1.3
+%% of this license or (at your option) any later version.
+%% The latest version of this license is in
+%%   http://www.latex-project.org/lppl.txt
+%% and version 1.3 or later is part of all distributions of LaTeX
+%% version 2005/12/01 or later.
+%%
+%% This work has the LPPL maintenance status `maintained'.
+%% 
+%% The Current Maintainer of this work is the abnTeX2 team, led
+%% by Lauro César Araujo. Further information are available on 
+%% http://www.abntex.net.br/
+%%
+%% This work consists of the files abntex2-modelo-relatorio-tecnico.tex,
+%% abntex2-modelo-include-comandos and abntex2-modelo-references.bib
+%%
+
+% ------------------------------------------------------------------------
+% ------------------------------------------------------------------------
+% abnTeX2: Modelo de Relatório Técnico/Acadêmico em conformidade com 
+% ABNT NBR 10719:2011 Informação e documentação - Relatório técnico e/ou
+% científico - Apresentação
+% Adaptado por Daniel Saad Nogueira Nunes para uso no IFB Taguatinga.
+% ------------------------------------------------------------------------ 
+% ------------------------------------------------------------------------
+
+
+% Como opção escolha 'bacharelado' ou 'licenciatura'
+\documentclass[bacharelado]{pre-projeto-computacao}
+% ---
+% Informações de dados para CAPA e FOLHA DE ROSTO
+% ---
+\titulo{Revisão Sistemática sobre Computação por DNA aplicada a problemas NP-Completos}
+\autor{Raul Bruno Santos Lima}
+% para feminino use \orientadora{Nome da orientadora}
+%\orientadora{Maria Bonita}
+\orientador{Daniel Saad Nunes}
+
+% para masculino use \coorientador{Nome do coorientador}
+%\coorientador{Padre Cícero}
+\coorientador{Dhiego Loiola de Araújo}
+
+% Linha de pesquisa conforme tabela de áreas do CNPq
+\areadepesquisa{Análise de Algoritmos e Complexidade de Computação}
+\local{Brasília, DF}
+\data{2022}
+
+\begin{document}
+
+\selectlanguage{brazil}
+\frenchspacing 
+\imprimircapa
+\imprimirfolhaderosto
+
+\input{partes/introducao.tex}
+\input{partes/justificativa.tex}
+\input{partes/objetivo.tex}
+\input{partes/metodologia.tex}
+
+\bibliography{bibliografia}
+
+\end{document}

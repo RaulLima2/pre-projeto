@@ -1,0 +1,66 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Adleman 1994]{adleman_1994_molecular}
+\abntrefinfo{Adleman}{ADLEMAN}{1994}
+{ADLEMAN, L. Molecular computation of solutions to combinatorial problems.
+\emph{Science}, v.~266, p. 1021--1024, 11 1994.
+Dispon{\'\i}vel em:
+  \url{https://science.sciencemag.org/content/266/5187/1021/tab-pdf}.}
+
+\bibitem[Bennett 1982]{bennett_1982_the}
+\abntrefinfo{Bennett}{BENNETT}{1982}
+{BENNETT, C.~H. The thermodynamics of computation—a review.
+\emph{International Journal of Theoretical Physics}, v.~21, p. 905--940, 12
+  1982.}
+
+\bibitem[Conrad 1985]{conrad_1985_on}
+\abntrefinfo{Conrad}{CONRAD}{1985}
+{CONRAD, M. On design principles for a molecular computer.
+\emph{Communications of the ACM}, v.~28, p. 464--480, 05 1985.}
+
+\bibitem[Conrad e Liberman 1982]{conrad_1982_molecular}
+\abntrefinfo{Conrad e Liberman}{CONRAD; LIBERMAN}{1982}
+{CONRAD, M.; LIBERMAN, E.~A. Molecular computing as a link between biological
+  and physical theory.
+\emph{Journal of Theoretical Biology}, v.~98, p. 239–252, 09 1982.
+Dispon{\'\i}vel em:
+  \url{https://www.sciencedirect.com/science/article/abs/pii/0022519382902624}.}
+
+\bibitem[Feynman 1992]{feynman_1992_theres}
+\abntrefinfo{Feynman}{FEYNMAN}{1992}
+{FEYNMAN, R.~P. There's plenty of room at the bottom [data storage].
+\emph{Journal of Microelectromechanical Systems}, v.~1, p. 60--66, 03 1992.
+Dispon{\'\i}vel em:
+  \url{http://web.pa.msu.edu/people/yang/RFeynman\_plentySpace.pdf}.}
+
+\bibitem[Filho 2004]{isaiafilho_2004_uma}
+\abntrefinfo{Filho}{FILHO}{2004}
+{FILHO, E. I.
+\emph{Uma metodologia para computação com DNA}.
+1-83~p. Tese (Doutorado), 09 2004.
+Dispon{\'\i}vel em: \url{https://www.lume.ufrgs.br/handle/10183/16662}.}
+
+\bibitem[Gibbons, Amos e Hodgson 1997]{gibbons_1997}
+\abntrefinfo{Gibbons, Amos e Hodgson}{GIBBONS; AMOS; HODGSON}{1997}
+{GIBBONS, A.; AMOS, M.; HODGSON, D. Dna computing.
+\emph{Current opinion in biotechnology}, v.~8, p. 103--6, 03 1997.}
+
+\bibitem[Leal 2002]{leal_2002_uma}
+\abntrefinfo{Leal}{LEAL}{2002}
+{LEAL, L. A. d.~S.
+\emph{Uma fundamentação teórica para a complexidade estrutural de problemas
+  de otimização}.
+Tese (Doutorado), 2002.
+Dispon{\'\i}vel em: \url{https://lume.ufrgs.br/handle/10183/4144}.}
+
+\bibitem[Szwarcfiter, Oliveira e Pinto 2018]{szwarcfiter_2018_teoria}
+\abntrefinfo{Szwarcfiter, Oliveira e Pinto}{SZWARCFITER; OLIVEIRA; PINTO}{2018}
+{SZWARCFITER, J.~L.; OLIVEIRA, F.~S.; PINTO, P.~E. \emph{TEORIA COMPUTACIONAL
+  DE GRAFOS: Os Algoritmos}. [S.l.]: Elsevier, 2018. 1-437~p.}
+
+\end{thebibliography}
